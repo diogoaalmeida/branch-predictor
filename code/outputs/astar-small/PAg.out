@@ -1,0 +1,16 @@
+------------------------- Statistics -------------------------
+Total Branches: 460930
+Overall Hits:            415081 | Accuracy:  90.0529%
+Direction Hits:          434634 | Accuracy:   94.295%
+Target Hits:             440312 | Accuracy:  95.5269%
+
+    Taken Branches: 264833 |     Taken Predicted: 261057
+Not Taken Branches: 196097 | Not Taken Predicted: 199873
+
+Unconditional Branches: 60194
+Conditional   Branches: 400736
+Direct        Branches: 438896
+Indirect      Branches: 22034
+Call          Branches: 15726
+Return        Branches: 15722
+------------------------- Statistics -------------------------
