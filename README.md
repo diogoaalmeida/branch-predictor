@@ -1,25 +1,24 @@
-## Implementação das nove variações do algoritmo de dois níveis para previsão de desvios utilizando a ferramenta PIN
-###### Diogo Alves de Almeida RA95108
+## Implementation of the nine variations of the two-level algorithm for forecasting deviations using the PIN tool
 
-### **Comandos principais:**
-- #### Compilar código
+### **Main commands:**
+- #### Compile code
 ```sh
 make pin
 ```
-- #### Compilar relatório
+- #### Compile report
 ```sh
 make report
 ```
-- #### Compilar tudo
+- #### Compile all
 ```sh
 make
 ```
-- #### Executar
+- #### Run
 ```sh
-pin -t [variação].so -- [programa]
+pin -t [variation].so -- [program]
 ```
-### **Observações:**
-- #### Caso tenha problema para compilar os relatórios executar o seguinte comando
+### **Comments:**
+- #### If you have trouble compiling the reports, run the following command
 ```sh
-sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra texlive-lang-portuguese
+sudo apt-get install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra texlive-lang-english
 ```
