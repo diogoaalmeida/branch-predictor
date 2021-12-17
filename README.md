@@ -1,4 +1,4 @@
-## Implementation of the nine variations of the two-level algorithm for forecasting deviations using the PIN tool
+## Implementation of the nine variations of the two-level algorithm for dynamic prediction deviations using the PIN tool
 
 ### **Main commands:**
 - #### Compile code
